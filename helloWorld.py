@@ -1,2 +1,2 @@
-user_data = input("Enter a sentence:")
-print(user_data)
+user_input = input("Enter a sentence:")
+print(user_input)
